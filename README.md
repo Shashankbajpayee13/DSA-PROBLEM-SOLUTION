@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0048-rotate-image) |
+| [0713-subarray-product-less-than-k](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Shashankbajpayee13/DSA-PROBLEM-SOLUTION/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
